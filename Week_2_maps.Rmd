@@ -1,5 +1,5 @@
 ---
-title: "maps"
+title: "Maps"
 author: "Juan Jose Rojo"
 date: "6/2/2021"
 output:
